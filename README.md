@@ -1,4 +1,7 @@
 # SIH2K25
-This repo had been made for recording our SIH progress....
+
+Problem Statement ID : 25031
+Problem Statement :
+
 
 PS : Contents here will get updated slowely......
