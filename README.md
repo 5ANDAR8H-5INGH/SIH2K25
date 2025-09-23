@@ -21,3 +21,7 @@ On the back end, a web-based administrative portal should enable municipal staff
 A scalable, resilient backend must manage high volumes of multimedia content, support concurrent users, and provide APIs for future integrations or extensions. Lastly, the solution should deliver analytics and reporting features that offer insights into reporting trends, departmental response times, and overall system effectiveness — ultimately driving better civic engagement and government accountability.
 
 PS : Contents here will get updated slowely......
+
+# urban_eye_app
+
+A new Flutter project.
