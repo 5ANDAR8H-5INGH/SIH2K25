@@ -36,7 +36,7 @@ An integrated software platform (mobile + web) with:
 • NLP engine for detecting relevant hazard-related posts, keywords, and engagement metrics.
 • Multilingual support for regional accessibility.
 • Offline data collection capabilities (sync later), useful for remote coastal areas.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PS_2 ID : 25093
 
 Problem Statement Title : Centralised Digital Platform for Comprehensive student activity record in HEIs
