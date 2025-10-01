@@ -74,7 +74,7 @@ Impact and Benefits:
 Expected Solution:
 We propose the development of a mobile + web-based application that can digitally catalogue and manage a student's academic and non-academic achievements throughout their time in college. The proposed protocol will:
 - Build a verified, holistic student profile from Day 1
-- Reduce paperwork and improve transparency
+- Reduce paperwork and improve transparency.
 - Make students better prepared for placements, fellowships, or postgraduate admissions
 - Empower faculty with real-time data for mentoring and tracking
 - Align with the digital transformation goals of higher education institutions
